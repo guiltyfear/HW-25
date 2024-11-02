@@ -1,0 +1,11 @@
+#a,#b,#c{
+    position: relative;
+}
+#b{
+    top: -100px;
+    left: 50px;
+}
+#c{
+    top: -200px;
+    left: 100px;
+}
