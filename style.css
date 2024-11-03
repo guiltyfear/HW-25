@@ -4,8 +4,10 @@
 #b{
     top: -100px;
     left: 50px;
+    z-index: 2;
 }
 #c{
     top: -200px;
     left: 100px;
+    z-index: 1;
 }
